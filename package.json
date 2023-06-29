@@ -1,0 +1,29 @@
+{
+  "name": "vchat",
+  "version": "1.0.0",
+  "description": "Chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Vinay Kumar Kharwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onebitjoy/Node.js-Chat-Application.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/onebitjoy/Node.js-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/onebitjoy/Node.js-Chat-Application#readme"
+}
